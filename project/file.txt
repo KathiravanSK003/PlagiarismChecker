@@ -1,0 +1,7 @@
+The file was blocked since it contained data that is not allowed to be downloaded.
+----------------------------------------------------------------------------------
+Original file name: Employee Info(1-12).xlsx
+Original file size in bytes: 12488
+Original file sha256 checksum: d95857e2683d3401ce86bc4be7de68bfbdce77ce0806d5fab8e01537a6678f95
+----------------------------------------------------------------------------------
+Blocked by Microsoft Cloud App Security
